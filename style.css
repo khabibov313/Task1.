@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+table ,th ,td{
+    border:3px black solid;
+    padding:10px 20px;
+    text-align: center;
+}
+th{
+    background-color:blue;
+    color:white;
+}
+td{
+    background-color: rgb(255, 119, 0);
+    color:black;
+}
